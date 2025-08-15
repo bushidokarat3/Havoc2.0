@@ -1,5 +1,8 @@
 Disclaimer
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a50360a3-4a0f-44a8-819c-66a024372d8c" />
+
+
 This software is provided strictly for authorized and approved purposes only. Any use of this software must comply with applicable laws, regulations, and organizational policies.
 
 By using this software, you acknowledge and agree to the following:
