@@ -55,13 +55,13 @@ function App() {
       <header className="App-header">
         <div className="App-header-logo">
           <p>
-            Made with &lt;3 by <a href="https://leosmith.wtf">p4p1</a>
+            Made with &lt;3 by <a href="https://dev.havoc5.com">bushidokarat3</a>
           </p>
         </div>
         <div className="App-header-links">
-          <a className="header-link" href="https://github.com/p4p1/havoc-store/blob/main/README.md#add-your-pluggins">Add your projects</a>
-          <a className="header-link" href="https://github.com/p4p1/havoc-store">Github</a>
-          <a className="header-link" href="https://havocframework.com/">HavocFramework</a>
+          <a className="header-link" href="https://github.com/bushidokarat3/Havoc2.0/blob/main/README.md#add-your-pluggins">Add your projects</a>
+          <a className="header-link" href="https://github.com/bushidokarat3/Havoc2.0/havoc2.0-store-main/">Github</a>
+          <a className="header-link" href="https://dev.havoc5.com">Havoc2.0</a>
         </div>
       </header>
       <div>
