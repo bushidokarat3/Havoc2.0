@@ -1,6 +1,6 @@
 {
-  "short_name": "Havoc-store",
-  "name": "A store to download havoc modules.",
+  "short_name": "Havoc2-store",
+  "name": "A store to download havoc2 modules.",
   "icons": [
     {
       "src": "favicon.ico",
