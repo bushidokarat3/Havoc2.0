@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Jost,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  color: #bd93f973;
+}
+
+p {
+  padding: 15px 15px 15px 15px;
+  text-align: initial;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #bd93f9;
+  margin: 0px;
+}
