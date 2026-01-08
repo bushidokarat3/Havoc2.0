@@ -11,7 +11,12 @@ sudo wget https://dev.havoc5.com/download && gunzip Havoc2.0.zip && cd Havoc2.0 
 
 <img width="900" height="523" alt="image" src="https://github.com/user-attachments/assets/e88af020-1baf-4878-b732-bc9294609fbd" />
 
-Then we build the client
+Then we set permission to the /teamserver/Install.sh via
+```
+sudo chmod +x /teamserver/Install.sh
+```
+
+Build the client
 
 <img width="1034" height="471" alt="image" src="https://github.com/user-attachments/assets/5f0855f6-a346-451f-a218-c7af7814f434" />
 <img width="1048" height="593" alt="image" src="https://github.com/user-attachments/assets/2a570540-dcf4-4274-bfb0-ab001fed5c11" />
