@@ -15,4 +15,4 @@ It is the user’s responsibility to ensure their actions are ethical, lawful, a
 This software is distributed “as-is” without warranties of any kind, express or implied.
 
 If you do not agree with these terms, you must not use this software.
-<img width="524" height="436" alt="image" src="https://github.com/user-attachments/assets/a50360a3-4a0f-44a8-819c-66a024372d8c" />
+
