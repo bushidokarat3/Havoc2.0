@@ -6,7 +6,7 @@ You can then load a script through the load script button.
 
 ## Download and building Havoc2.0
 ```
-sudo git clone https://github.com/bushidokarat3/Havoc2.0.git && cd Havoc2.0 && make ts-build && make client-build
+sudo wget https://dev.havoc5.com/download && gunzip Havoc2.0.zip && cd Havoc2.0 && make ts-build && make client-build
 ```
 
 <img width="900" height="523" alt="image" src="https://github.com/user-attachments/assets/e88af020-1baf-4878-b732-bc9294609fbd" />
@@ -20,6 +20,6 @@ Then we build the client
 
 ## Adding/Updating a modules to Havoc2.0 after your build is complete!
 ```
-sudo git clone https://github.com/bushidokarat3/Havoc2.0.git && cd Havoc2.0/havoc2.0-store-main && mv FixModules modules
+sudo wget https://dev.havoc5.com/download.... && cd Havoc2.0/havoc2.0-store-main && mv FixModules modules
 
 ```
